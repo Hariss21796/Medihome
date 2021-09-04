@@ -18,3 +18,13 @@ public class Employee extends Customer {
 
 }
 
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
+	public String getCustomerInfo() {
